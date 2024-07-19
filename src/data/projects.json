@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Markdown Viewer",
+      "imageSrc": "projects/project.png",
+      "description": "This is a Markdow Viewer Application with Authentication (MERN)",
+      "skills": ["React", "Express", "Node","MongoDB"], 
+      "demo": "https://zen-fsd-project-frontend.onrender.com",
+      "source": "https://github.com/YuvarajPatil1304/ZEN-FSD_Project/blob/main/ReadMe.md"
+    },
+    {
+      "title": "Todo Web App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a Todo Web App using React",
+      "skills": ["React", "HTML", "CSS", "Javascript"],
+      "demo": "https://guvi-react-task-3.netlify.app/",
+      "source": "https://github.com/YuvarajPatil1304/Guvi-Learning/tree/REACT-TASK3"
+    },
+    {
+      "title": "Static Home Page",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Javascript"],
+      "demo": "https://guvi-react-task-4.netlify.app/",
+      "source": "https://github.com/YuvarajPatil1304/Guvi-Learning/tree/REACT-TASK4"
+    }
+]

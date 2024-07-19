@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Wipro Intern",
+      "imageSrc": "interests/wipro.png",
+      "demo": "https://drive.google.com/file/d/1rJxHK6AW_lJ72hW2ZkG36aCdNlkIPxJO/view?usp=drive_link"
+    },
+    {
+      "title": "Guvi Full Stack Program",
+      "imageSrc": "interests/guvi.png",
+      "demo": "https://drive.google.com/file/d/1qi7TKegl0rzziUkWEgFlvf15UpXQm0gW/view?usp=drive_link"
+    },
+    {
+      "title": "Coursera - Data Structures",
+      "imageSrc": "interests/coursera.png",
+      "demo": "https://drive.google.com/file/d/1pCweVsTrhEbduEIQe1x-lIGG4HXwmjVf/view?usp=drive_link"
+    }
+]

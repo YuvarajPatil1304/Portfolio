@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Alecta Ventures",
+    "startDate": "Nov, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": ["Worked on Flutter, 2 In-house Projects", "Worked on Android Development(Flutter)"],
+    "imageSrc": "history/Alecta.jpg"
+  },
+  {
+    "role": "Project Engineer",
+    "organisation": "Wipro",
+    "startDate": "Mar, 2022",
+    "endDate": "May, 2022",
+    "experiences": ["Worked on .NET Core MVC", "Worked on a Capstone project as a part of training"],
+    "imageSrc": "history/Wipro.png"
+  }
+]
